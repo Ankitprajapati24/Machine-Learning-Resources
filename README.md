@@ -1,6 +1,7 @@
 # Machine-Learning-Resources
 
-## Python : Begain with python - the language for machine learning. these free courses will help you start!
+## Python : 
+  Begain with python - the language for machine learning. these free courses will help you start!
 ### Courses: 
 * [BroCOde ](https://youtube.com/playlist?list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&si=c40fad3ApSCdeMyk) -Python Full course for Free
 * [FreeCodecamp](https://www.freecodecamp.org/learn/python-for-everybody/) - Python for Everybody
