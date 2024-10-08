@@ -63,3 +63,5 @@ Analyze and visualize data with Matplotlib and Seaborn.Turn numbers into stories
 
 ## Book 
 Mathematics for Machine Learning : [Mathematics for Machine Learning Author: Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Publisher: Cambridge University ](https://mml-book.github.io/book/mml-book.pdf)
+
+Vector Calculus : [Vector Calculus PDF](https://www.mecmath.net/VectorCalculus.pdf)
