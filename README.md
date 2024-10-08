@@ -60,3 +60,6 @@ Analyze and visualize data with Matplotlib and Seaborn.Turn numbers into stories
 * [Codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)-Deeplearning Playlist
 * [FreeCodecamp](https://www.youtube.com/watch?v=tPYj3fFJGjk)-Tensorflow 2.0 compleate course
 * [Denial Bourke](https://www.youtube.com/watch?v=Z_ikDlimN6A)-Learn PyTorch for deep learning in a day 
+
+## Book 
+Mathematics for Machine Learning : [Mathematics for Machine Learning Author: Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Publisher: Cambridge University ](https://mml-book.github.io/book/mml-book.pdf)
